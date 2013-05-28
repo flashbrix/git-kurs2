@@ -1,4 +1,4 @@
-print 'Hello, world!'
+print 'Hallo, Welt!'
 print 'Es ist schoen hier! Ja das stimmt.'
 print '1 + 1 =', 1 + 1
 
